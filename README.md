@@ -56,4 +56,4 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install requests certifi
 
 ```
-Note: Created with google (Gemeni)
+Note: Created with Google (Gemini)
